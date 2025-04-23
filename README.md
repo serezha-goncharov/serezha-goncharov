@@ -4,6 +4,7 @@
 > I get fun when I bring something new to the world, and helping projects to shine brighter!
 
 🚀 I’m in love with testing, automating daily routine, developing Telegram Bots using Python (Aiogram 3) and other web technologies as well
+
 ✨ I love to work on projects that either improve your productivity or something nice and pretty
 
 📫 Reach me https://t.me/serezha_goncharov
